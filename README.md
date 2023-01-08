@@ -10,7 +10,7 @@
 
 ## Penjelasan program berupa pdf,silakan mengunjungi link berikut:
 
-https://docs.google.com/document/d/1g3FZxb1jqJQ2MFC7sbhXi2U1aQ-xsrGL/edit?usp=drivesdk&ouid=107405657563384627574&rtpof=true&sd=true
+https://drive.google.com/file/d/1gXDMcy08ZNzqrZvvLrIzWWMhfRs-rLQA/view?usp=drivesdksd=true
 
 ## Penjelasan Program berupa video youtube, silakan mengunjungi link berikut:
 
