@@ -141,4 +141,4 @@ def hapus_data():
         del dataMahasiswa['Nilai Akhir'][nimIndex]
         print("data berhasil dihapus.  ")
     else:
-        print("data tidak ditemukan")
+        print("data tidak ditemukan") 
