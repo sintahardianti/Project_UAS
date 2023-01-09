@@ -36,4 +36,4 @@ if __name__ == '__main__':
         elif tanya in ("q", "Q"):
             print("")
             print("Anda telah keluar dari program.")
-            break
+            break 
