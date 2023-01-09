@@ -18,5 +18,9 @@ https://youtu.be/pYG5TC1EwdI
 
 ## Berikut ini tautan repository GitHub
 
-https://github.com/sintahardianti/UAS
+https://github.com/sintahardianti/Project_UAS
+
+## Follow instagram saya :
+
+@siintaa.14
 
